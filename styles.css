@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.container{
+	background-color: #ADD8E6;
+	border:2px solid black;
+	display:inline-block;
+	padding:100px;
+	color:purple;
+	
+	
+}
